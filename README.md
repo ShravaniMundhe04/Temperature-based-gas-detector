@@ -48,7 +48,7 @@ Originally intended to use a **thermocouple sensor**, the project was adapted us
 ## Circuit Demo
 
 ### Simulation Screenshot
-[Simulation](Temperature_Based_Gas_Sensor.png)
+![Simulation](Temperature_Based_Gas_Sensor.png)
 
 ---
 

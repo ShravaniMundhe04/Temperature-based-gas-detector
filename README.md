@@ -1,4 +1,4 @@
-# Temperature-based-gas-detector
+
 
 # Temperature-Based Gas Leak Detection System (Arduino + Tinkercad)
 

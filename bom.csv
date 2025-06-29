@@ -1,0 +1,7 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"D1",1,"Red LED"
+"PIEZO1",1," Piezo"
+"U2",1," Temperature Sensor [TMP36]"
+"S2",1," Slideswitch"
+"R1",1,"220 Ω Resistor"
